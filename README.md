@@ -21,7 +21,7 @@ Identify anomalous (fraudulent) credit‐card transactions with the lowest possi
   - Logistic Regression  
   - Support Vector Machine  
   - **Random Forest Classifier**  
-- **Metric Focus**: Recall on the fraud class  
+- **Metric Focus**: Recall on the fraud class
 - **Best Result**:  
   - Random Forest achieved a recall of **0.78**
 
