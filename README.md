@@ -1,4 +1,4 @@
-# Anomaly Detection in Financial Transactions
+ # Anomaly Detection in Financial Transactions
 
 ## 🚀 Project Goal
 Identify anomalous (fraudulent) credit‐card transactions with the lowest possible False Positive Rate (FPR), while maximizing recall on the fraud class.
